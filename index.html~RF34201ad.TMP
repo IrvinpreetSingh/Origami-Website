@@ -1,0 +1,84 @@
+﻿<!DOCTYPE>
+<html>
+	<head>
+		<title>Origami</title>
+	</head>
+	<body>
+		<h1>Irvinpreet Singh</h1>
+			<a href="index.html">Projects</a>
+			<a href="aboutme.html">About Me</a>
+			<h2>Learn Origami</h2>
+			
+			<a href="https://www.origami.me/camel/"> 
+				<img src="camel.jpg" width=200 height=200 />  </a>
+				<p>Camel Origami 👆👆</p>
+					<p><b><i>Intresting Facts About Camel</i></b></p>
+				<ul>
+				<li>Camels ear's are furry.</li>
+				<li>Camel can easily move on sand because of its specially designed feets.</li>
+				<li>When they find water, they will drink as much as possible.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Camel">Here</a></li>
+				</ul>
+				
+
+				<a href="https://www.origami.me/chameleon/"> 
+				<img src="chameleon.jpg" width=200 height=200 />  </a>
+				<p>Chameleon Origami 👆👆</p>
+				<p><b><i>Intresting Facts About Chameleon</i></b></p>
+				<ul>
+				<li>Chameleons are reptiles that are part of the iguana suborder.</li>
+				<li>Changing skin colour is an important part of communication among chameleons.</li>
+				<li>Most chameleons have a prehensile tail that they use to wrap around tree branches.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Chameleon">Here</a></li>
+				</ul>
+				
+				
+
+				<a href="https://www.origami.me/flying-cicada/"> 
+				<img src="cicada.jpg" width=200 height=200 />  </a>
+				<p>Cicada Origami 👆👆</p>
+				<p>Cicada Origami 👆👆</p>
+					<p><b><i>Intresting Facts About Cicida</i></b></p>
+				<ul>
+				<li>There are around 3,000 cicada species, according to National Geographic, so they vary in size from 0.75 to 2.25 in (2.2 to 5.5 cm) long.</li>
+				<li> Cicadas can be black, brown or green and can have red, white or blue eyes.</li>
+				<li>Their wings are transparent and can seem rainbow-hued when held up to a light source.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Cicada">Here</a></li>
+				</ul>
+				
+
+				<a href="https://www.origami.me/panda/"> 
+				<img src="panda.jpg" width=200 height=200 />  </a>
+				<p>Panda Origami 👆👆</p>
+					<p><b><i>Intresting Facts About Panda</i></b></p>
+				<ul>
+				<li>A giant panda is much bigger than your teddy bear.</li>
+				<li>Giant pandas are good at climbing trees and can also swim.</li>
+				<li>Pandas have so many fans because they look cute.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Giant_panda">Here</a></li>
+				</ul>
+				
+
+				<a href="https://www.origami.me/pigeon/"> 
+				<img src="pigeon.jpg" width=200 height=200 />  </a>
+				<p>Pigeon Origami 👆👆</p>
+					<p><b><i>Intresting Facts About Pigeon</i></b></p>
+				<ul>
+				<li>Pigeons are incredibly complex and intelligent animals.</li>
+				<li>Pigeons are renowned for their outstanding navigational abilities.</li>
+				<li>Pigeons are highly sociable animals.</li>
+				<li>Pigeons mate for life, and tend to raise two chicks at the same time.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Domestic_pigeon">Here</a></li>
+				</ul>
+
+				<a href="https://www.origami.me/teddy-bear/"> 
+				<img src="teddy.jpg" width=200 height=200 />  </a>
+				<p>Teddy Origami 👆👆</p>
+				<p><b><i>Intresting Facts About Teddy</i></b></p>
+				<ul>
+				<li>A teddy bear is a stuffed toy in the form of a bear.</li>
+				<li>For more information click <a href="https://en.wikipedia.org/wiki/Teddy_bear">Here</a></li>
+				</ul>
+			
+	</body>
+</html>
